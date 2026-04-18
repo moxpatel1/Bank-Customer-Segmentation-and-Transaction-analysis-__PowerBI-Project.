@@ -1,2 +1,1 @@
-# Power-Bi
-Bank Customer Segmentation and Transaction analysis
+# Bank Customer Segmentation and Transaction analysis
