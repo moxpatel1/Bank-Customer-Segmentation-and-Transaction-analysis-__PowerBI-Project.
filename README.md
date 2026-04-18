@@ -93,8 +93,8 @@ This project uses two datasets:
 ---
 
 ## 📸 Dashboard Preview
+<img width="1388" height="772" alt="image" src="https://github.com/user-attachments/assets/e5dc4ae7-1e79-45d0-9bf6-c10a8108b12d" />
 
-![Dashboard Screenshot](dashboard.png)
 
 ---
 
